@@ -1,0 +1,66 @@
+{
+  "weekly": [
+    {
+      "id": 1,
+      "name": "Felix",
+      "points": 130,
+      "avatar": "/avatars/felix.png"
+    },
+    {
+      "id": 2,
+      "name": "Cristiane",
+      "points": 120,
+      "avatar": "/avatars/cristiane.png"
+    },
+    {
+      "id": 3,
+      "name": "Vinicius",
+      "points": 110,
+      "avatar": "/avatars/vinicius.png"
+    },
+    {
+      "id": 4,
+      "name": "João Silva",
+      "points": 90,
+      "avatar": "/avatars/joao.png"
+    },
+    {
+      "id": 5,
+      "name": "Pedro Soares",
+      "points": 85,
+      "avatar": "/avatars/pedro.png"
+    }
+  ],
+  "monthly": [
+    {
+      "id": 1,
+      "name": "Mariana",
+      "points": 450,
+      "avatar": "/avatars/mariana.png"
+    },
+    {
+      "id": 2,
+      "name": "Carlos",
+      "points": 420,
+      "avatar": "/avatars/carlos.png"
+    },
+    {
+      "id": 3,
+      "name": "Ana",
+      "points": 400,
+      "avatar": "/avatars/ana.png"
+    },
+    {
+      "id": 4,
+      "name": "João Silva",
+      "points": 360,
+      "avatar": "/avatars/joao.png"
+    },
+    {
+      "id": 5,
+      "name": "Pedro Soares",
+      "points": 340,
+      "avatar": "/avatars/pedro.png"
+    }
+  ]
+}
